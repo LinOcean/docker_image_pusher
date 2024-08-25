@@ -1,3 +1,1 @@
-nginx
-tomcat
-java:8
+java:1.8
